@@ -1,0 +1,3 @@
+npm init: se utiliza para inicializar un nuevo proyecto de Node.js y crear un archivo package.json. 
+Este archivo es fundamental en proyectos de Node.js ya que almacena información sobre el proyecto, 
+como el nombre del proyecto, la versión, las dependencias, los scripts de npm, entre otros.

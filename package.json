@@ -1,0 +1,22 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "nada",
+  "main": "index.js",
+  "scripts": {
+    "test": "error de compilacion"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcm1011/LAB04David.git"
+  },
+  "keywords": [
+    "keypass"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidcm1011/LAB04David/issues"
+  },
+  "homepage": "https://github.com/davidcm1011/LAB04David#readme"
+}
